@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\bin\Debug\AutoLike.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\bin\Debug\AutoLike.exe
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\bin\Debug\AutoLike.pdb
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\obj\Debug\AutoLike.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\obj\Debug\AutoLike.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\obj\Debug\AutoLike.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\obj\Debug\AutoLike.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\obj\Debug\AutoLike.exe
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\obj\Debug\AutoLike.pdb
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\bin\Debug\CoreTweet.dll
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\bin\Debug\CoreTweet.xml
+c:\users\user\documents\visual studio 2015\Projects\AutoLike\bin\Debug\Newtonsoft.Json.xml
